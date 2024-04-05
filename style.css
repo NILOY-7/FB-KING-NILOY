@@ -1,0 +1,92 @@
+body {
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fplayground.com%2Fsearch%3Fq%3Dpicturesque%2Bvillage%2Bsurrounded%2Bby%2Blush%2Bgreenery%2Band%2Ba%2Bflowing%2Briver.&psig=AOvVaw0OM5eSQOnlypCgMvbFrCuW&ust=1712401065078000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDSu6T1qoUDFQAAAAAdAAAAABAE');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .login-form {
+    background: rgba(168, 218, 5, 0.5);
+    border-radius: 10px;
+    padding: 30px;
+    width: 360px;
+    margin: 50px auto;
+  }
+  
+  .login-form h2 {
+    color: #333;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  .login-form input[type="text"],
+  .login-form input[type="password"] {
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+  }
+  
+  .login-form input[type="submit"] {
+    background: #333;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    padding: 15px;
+    width: 100%;
+  }
+  
+  .login-form input[type="submit"]:hover {
+    background: #1f985c;
+  }
+  
+  .forgot-password {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .signup-link {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .signup-link a {
+    color: #23b35a;
+  }
+  footer {
+    background-color: #333; /* Choose your desired color */
+    color: #fff; /* Text color */
+    padding: 40px 0; /* Add space around content */
+  }
+  
+  .container {
+    width: 80%; /* Adjust as needed */
+    margin: 0 auto; /* Center the container */
+  }
+  
+  /* Center content inside the footer */
+  .col-md-6 {
+    text-align: center;
+  }
+  
+  /* Style the headings */
+  h2 {
+    color: #fff; /* Heading color */
+    margin-bottom: 10px; /* Add space below headings */
+  }
+  
+  /* Style the list in the 'Contact Us' section */
+  ul {
+    list-style: none; /* Remove bullet points */
+  }
+  
+  ul li {
+    margin-bottom: 5px; /* Add space between list items */
+  }
+  
+  /* Style the copyright text */
+  .col-md-12 {
+    text-align: center;
+    margin-top: 20px; /* Add space above the text */
+  }
